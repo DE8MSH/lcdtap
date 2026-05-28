@@ -53,6 +53,7 @@ https://github.com/user-attachments/assets/6f17d5dc-84d3-4a2a-a3ea-fca37591515f
 - [Arduboy](./CFG_ARDUBOY.md)
 - [TinyJoyPad](./CFG_TINYJOYPAD.md)
 - [Thumby](./CFG_THUMBY.md)
+- [MMDVM](https://www.youtube.com/watch?v=lGeGgGEnRXc)
 
 ## License
 
